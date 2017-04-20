@@ -6,7 +6,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="css/style.css" rel="stylesheet">
     </head>
-    <body>
+    <body aurelia-app>
         <h3>Welcome to Shop Express</h3>
     </body>
+    <script src="jspm_packages/system.js"></script>
+            <script src="config.js"></script>
+            <script>
+                System.import('aurelia-bootstrapper');
+            </script>
 </html>
