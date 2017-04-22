@@ -1,8 +1,17 @@
 <template>
 
     <require from="bootstrap/css/bootstrap.css"></require>
+    <require from="../css/style.css"></require>
 
-    <div class="container">
-        ${message}
+    <div class="fulid-container margin-25">
+        <div class="row">
+            <div class="col-sm-3 col-md-3 col-lg-3">
+                Filters go here
+            </div>
+            <div class="col-sm-9 col-md-9 col-lg-3">
+                <compose view="products/list.html" view-model="products/list"></compose>
+            </div>
+        </div>
     </div>
+
 </template>
