@@ -1,5 +1,10 @@
+import {inject} from 'aurelia-framework';
+import {EventAggregator} from 'aurelia-event-aggregator';
+
+@inject(EventAggregator)
 export class List{
-    constructor(){
+    constructor(eventAggregator){
+        this.eventAggregator = eventAggregator;
         this.products = [];
         for (let i = 0; i < 20; i++) {
             let product = {
@@ -11,5 +16,9 @@ export class List{
 
             this.products.push(product);
         }
+    }
+
+    addToCart(product){
+        this.eventAggregator.publish('addProduct', product);
     }
 }
