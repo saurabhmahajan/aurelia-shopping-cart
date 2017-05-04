@@ -1,7 +1,5 @@
 <template>
-
-
-    <div class="navbar navbar-default">
+    <div class="navbar navbar-default navbar-fixed-top">
         <a class="navbar-brand" href="#">SuperMarket</a>
         <ul class="nav navbar-nav">
             <li repeat.for="row of router.navigation" class="${row.isActive ? 'active' : ''}">
@@ -13,7 +11,7 @@
         </ul>
     </div>
 
-    <div class="container">
+    <div class="container margin-top-75px">
         <router-view></router-view>
     </div>
 
