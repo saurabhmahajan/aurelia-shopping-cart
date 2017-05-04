@@ -7,7 +7,8 @@ export class App{
         this.router = router;
         config.map([
             { route:['', 'list'], moduleId: 'products/list', nav:true, title : 'List' },
-            { route:['about'], moduleId:'about/about', nav:true, title: 'About' }
+            { route:['about'], moduleId:'about/about', nav:true, title: 'About' },
+            { route:'products/details/:id', moduleId:'products/details', name:'details'}
         ]);
     }
 }

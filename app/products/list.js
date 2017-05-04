@@ -8,6 +8,7 @@ export class List{
         this.products = [];
         for (let i = 0; i < 20; i++) {
             let product = {
+                id : i,
                 title : `Product ${i + 1}`,
                 description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.',
                 thumbnailUrl:`https://placeimg.com/250/200/tech?image=${i}`,
