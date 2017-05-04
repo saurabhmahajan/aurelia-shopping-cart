@@ -1,11 +1,5 @@
-import {inject} from 'aurelia-framework';
-import {Cart} from 'cart/cart';
-
-@inject(Cart)
 export class List{
-    constructor(cart){
-        this.cart = cart;
-
+    constructor(){
         this.products = [];
         for (let i = 0; i < 20; i++) {
             let product = {
@@ -17,9 +11,5 @@ export class List{
 
             this.products.push(product);
         }
-    }
-
-    addToCart(){
-        this.cart.add({});
     }
 }

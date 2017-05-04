@@ -17,6 +17,7 @@ System.config({
 
   map: {
     "aurelia-bootstrapper": "npm:aurelia-bootstrapper@2.1.1",
+    "aurelia-event-aggregator": "npm:aurelia-event-aggregator@1.0.1",
     "aurelia-framework": "npm:aurelia-framework@1.1.2",
     "aurelia-pal-browser": "npm:aurelia-pal-browser@1.2.1",
     "babel": "npm:babel-core@5.8.38",
