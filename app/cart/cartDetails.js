@@ -8,4 +8,8 @@ export class CartDetails{
         console.log(cart);
         this.message = `Cart has ${this.cart.getItems().length} items`;
     }
+
+    removeItem(productId){
+        this.cart.removeItem(productId);
+    }
 }
