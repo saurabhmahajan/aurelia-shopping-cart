@@ -9,20 +9,6 @@ export class CartSummary{
         this.cart = cart;
     }
 
-    attached(){
-        this.subscriber = this.eventAggregator.subscribe('addProduct', product => {
-            this.cart.addItem(product);
-        });
-
-        this.eventAggregator.subscribe('removeProduct', product => {
-            alert('Removed %s', product.id);
-        });
-    }
-
-    detached(){
-        this.subscriber.dispose();
-    }
-
     getItems(){
        return this.cart.getItems(); 
     }

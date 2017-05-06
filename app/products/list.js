@@ -1,13 +1,14 @@
 import {inject} from 'aurelia-framework';
 import {EventAggregator} from 'aurelia-event-aggregator';
 import {ProductService} from 'services/productService';
+import {Cart} from 'cart/cart';
 
-
-@inject(EventAggregator, ProductService)
+@inject(EventAggregator, ProductService, Cart)
 export class List{
-    constructor(eventAggregator, productService){
+    constructor(eventAggregator, productService, cart){
         this.eventAggregator = eventAggregator;
         this.productService = productService;
+        this.cart = cart;
     }
 
     activate(){
@@ -16,6 +17,6 @@ export class List{
     }
 
     addToCart(product){
-        this.eventAggregator.publish('addProduct', product);
+        this.cart.addItem(product);
     }
 }

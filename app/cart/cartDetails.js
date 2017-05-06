@@ -5,8 +5,6 @@ import {Cart} from 'cart/cart';
 export class CartDetails{
     constructor(cart){
         this.cart = cart;
-        console.log(cart);
-        this.message = `Cart has ${this.cart.getItems().length} items`;
     }
 
     removeItem(productId){
