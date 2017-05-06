@@ -1,20 +1,20 @@
 import {inject} from 'aurelia-framework';
 import {ProductService} from 'services/productService';
-import {EventAggregator} from 'aurelia-event-aggregator';
+import {Cart} from 'cart/cart';
 
-@inject(ProductService, EventAggregator)
+@inject(ProductService, Cart)
 export class Details{
-    constructor(productService, eventAggregator){
+    constructor(productService, cart){
         this.productService = productService;
-        this.eventAggregator = eventAggregator;
+        this.cart = cart;
     }
 
     activate(params){
-        this.productService.getById(params.id)
+        return this.productService.getById(params.id)
                             .then(product => this.product = product);
     }
 
     addToCart(){
-        this.publisher = this.eventAggregator.publish('addProduct', this.product);
+        this.cart.addItem(this.product);
     }
 }

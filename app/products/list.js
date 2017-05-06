@@ -1,12 +1,10 @@
 import {inject} from 'aurelia-framework';
-import {EventAggregator} from 'aurelia-event-aggregator';
 import {ProductService} from 'services/productService';
 import {Cart} from 'cart/cart';
 
-@inject(EventAggregator, ProductService, Cart)
+@inject(ProductService, Cart)
 export class List{
-    constructor(eventAggregator, productService, cart){
-        this.eventAggregator = eventAggregator;
+    constructor(productService, cart){
         this.productService = productService;
         this.cart = cart;
     }
