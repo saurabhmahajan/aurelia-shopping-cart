@@ -1,7 +1,6 @@
-export class Cart{
+export class CartService{
     constructor(){
         this.items = [];
-        console.log('Cart constructor');
     }
 
     addItem(item){
@@ -9,6 +8,6 @@ export class Cart{
     }
 
     getItems(){
-       return this.items; 
+        return this.items;
     }
 }
