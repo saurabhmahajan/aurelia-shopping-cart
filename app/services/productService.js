@@ -12,4 +12,8 @@ export class ProductService{
         return this.httpClient.get('./app/services/products.json')
             .then(response => response.content);
     }
+
+    getById(id){
+        return this.getAll().then(products => products.filter( p => p.id == id)[0]);
+    }
 }
