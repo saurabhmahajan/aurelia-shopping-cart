@@ -4,7 +4,7 @@
             <img src.bind="product.thumbnailUrl" alt="product">
             <div class="caption">
                 <h3>${product.title}</h3>
-                <p>${product.description}</p>
+                <p>${product.shortDescription}</p>
                 <h4>Price : $ ${product.price}</h4>
                 <a class="btn btn-primary" click.delegate="addToCart(product)">Add to cart</a>
                 <a class="btn btn-default" route-href="route:details; params.bind:{id:product.id}" >Details</a>

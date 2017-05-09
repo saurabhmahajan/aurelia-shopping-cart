@@ -10,6 +10,10 @@
     margin-top: 75px !important;
 }
 
+.bottom-aligned{
+  bottom: 0;
+  position: absolute;
+}
 
 /*****************globals*************/
 body {

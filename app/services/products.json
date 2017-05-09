@@ -2,140 +2,160 @@
   {
     "id": 1,
     "title": "Product 1",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=0",
     "price": 54
   },
   {
     "id": 2,
     "title": "Product 2",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=1",
     "price": 52
   },
   {
     "id": 3,
     "title": "Product 3",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=2",
     "price": 28
   },
   {
     "id": 4,
     "title": "Product 4",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=3",
     "price": 98
   },
   {
     "id": 5,
     "title": "Product 5",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=4",
     "price": 100
   },
   {
     "id": 6,
     "title": "Product 6",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=5",
     "price": 33
   },
   {
     "id": 7,
     "title": "Product 7",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=6",
     "price": 37
   },
   {
     "id": 8,
     "title": "Product 8",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=7",
     "price": 89
   },
   {
     "id": 9,
     "title": "Product 9",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=8",
     "price": 101
   },
   {
     "id": 10,
     "title": "Product 10",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=9",
     "price": 29
   },
   {
     "id": 11,
     "title": "Product 11",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=10",
     "price": 95
   },
   {
     "id": 12,
     "title": "Product 12",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=11",
     "price": 103
   },
   {
     "id": 13,
     "title": "Product 13",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=12",
     "price": 28
   },
   {
     "id": 14,
     "title": "Product 14",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=13",
     "price": 31
   },
   {
     "id": 15,
     "title": "Product 15",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=14",
     "price": 59
   },
   {
     "id": 16,
     "title": "Product 16",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=15",
     "price": 81
   },
   {
     "id": 17,
     "title": "Product 17",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=16",
     "price": 102
   },
   {
     "id": 18,
     "title": "Product 18",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=17",
     "price": 17
   },
   {
     "id": 19,
     "title": "Product 19",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=18",
     "price": 21
   },
   {
     "id": 20,
     "title": "Product 20",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus tristique augue a luctus. Sed maximus, diam non congue mollis.",
     "thumbnailUrl": "https://placeimg.com/250/200/tech?image=19",
     "price": 38
   }
